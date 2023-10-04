@@ -29,6 +29,10 @@ public class NorwayMotherOfAllFlags {
 	}
 
 	public static void france() {
+		StdDraw.setXscale(0, 22);
+		StdDraw.setYscale(0, 16);
+		
+		
 		
 		// TODO
 	}
@@ -53,6 +57,7 @@ public class NorwayMotherOfAllFlags {
 		// TODO
 	}
 
+	
 	public static void finland() {
 		
 		// TODO
